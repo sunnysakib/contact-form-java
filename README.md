@@ -16,7 +16,7 @@ console
 ## Screenshots
 
 <img src="./app/src/main/res/drawable/Screenshot 2022-11-27 at 11.21.48 AM.png" height="400"  align="center" />
-<img src="./app/src/main/res/drawable/contact-form.png" height="500" align="right"/>
+<img src="./app/src/main/res/drawable/contact-form.png" height="500"/>
 <img src="./app/src/main/res/drawable/info.png" height="500"  align="right" />
 <img src="./app/src/main/res/drawable/Untitled design.gif" height="500"  align="right" />
 
