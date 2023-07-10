@@ -1,6 +1,6 @@
-# contact-form-java
+# contact-form-java 
 
-Scientific Calculator App using java. API version 29.
+Scientific Calculator App using java. API version 26
 
 #### Use local database (SQLite) to store data persistently
 - Use of the SQLiteDatabaseHelper class
